@@ -1,3 +1,7 @@
+Usage: 
+*.exe <input_folder> <output_folder>
+Flip all files in <input_folder> with filename extension '.png' (case insensitive) horizentally into <output_folder>. Negelect files that are not PNG files.
+
 使用方法：*.exe <input_folder> <output_folder>
 用途：将<input_folder>中（包括所有子文件夹）所有合法.png后缀文件左右翻转后以相同文件夹结构存入<output_folder>。
 
